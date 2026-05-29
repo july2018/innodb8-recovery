@@ -1,0 +1,15 @@
+*.o
+*.page
+pages-*/
+*.tsv
+*.ibd
+stream_parser8
+c_parser8
+create_defs_parser8
+ibdump8
+stream_parser8.exe
+c_parser8.exe
+create_defs_parser8.exe
+ibdump8.exe
+__pycache__/
+*.pyc
